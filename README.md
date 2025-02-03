@@ -11,6 +11,7 @@ Linguagem usada Java com framework SpringBoot, bibliotecas, SpringWeb,SpringTool
 
 ### Endereço para teste
 
-http://localhost:8080/cep?cep=00000000
+http://localhost:XXXX/cep?cep=00000000
 
 Obs: Substituir os 00000000 por um cep válido.
+XXXX substituir por sua Url local.
